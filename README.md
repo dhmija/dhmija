@@ -1,16 +1,14 @@
-## Hi there 👋
+# hey, i'm anshul
 
-<!--
-**dhmija/dhmija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+third year cs student at bennett. building full stack things, mostly over-engineering them.
 
-Here are some ideas to get you started:
+into microservices, system design, and whatever i'm obsessing over this week.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+`javascript` `typescript` `react` `next.js` `node.js`  
+`mongodb` `redis` `docker` `rabbitmq` `aws`
+
+---
+
+[linkedin](https://linkedin.com/in/anshl) · anshul.dhamija@outlook.com
