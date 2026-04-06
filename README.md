@@ -1,5 +1,3 @@
-# hey, i'm anshul
+# hey, i'm anshul 
 
-i build full stack things and then add microservices until it's someone else's problem.
-
-currently into distributed systems, occasionally into sleep.
+i build things until they work, then keep building until they don't.
